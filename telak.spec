@@ -7,8 +7,8 @@ Release:	1
 License:	GPL v2
 Group:		X11/Applications/Multimedia
 # git://git.naquadah.org/telak.git
-Source0:	%{name}-%{version}.tar.lzma
-# Source0-md5:	64c8be7214ca41b98180e7e81844cf10
+Source0:	%{name}-%{version}.tar.bz2
+# Source0-md5:	6d4c16056d28f8accc4f9d3dd7ad57d7
 URL:		http://git.naquadah.org/?p=telak.git;a=summary
 BuildRequires:	curl-devel
 BuildRequires:	imlib2-devel
